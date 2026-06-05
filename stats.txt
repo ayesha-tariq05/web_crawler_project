@@ -1,0 +1,26 @@
+Global Longest Word: transliterated
+Global Longest Length: 14
+Total Parsed Words: 2851
+Average Word Length: 4.78
+
+WORD LENGTH DISTRIBUTION
+Length  1 : 61
+Length  2 : 447
+Length  3 : 602
+Length  4 : 390
+Length  5 : 384
+Length  6 : 273
+Length  7 : 305
+Length  8 : 127
+Length  9 : 133
+Length 10 : 51
+Length 11 : 41
+Length 12 : 35
+Length 13 : 1
+Length 14 : 1
+Length 15 : 0
+Length 16 : 0
+Length 17 : 0
+Length 18 : 0
+Length 19 : 0
+Length 20+ : 0
